@@ -1,0 +1,16 @@
+.Scrollbar {
+    background-color: #212223;
+    width: auto;
+    height: 15vh;
+}
+
+.Title {
+    text-align: center;
+    font-size: 8vh;
+    color: #f1f2f3;
+}
+
+.SavedTexts {
+    margin-top: -30vh;
+    margin-left: 230vh;
+}

@@ -1,0 +1,13 @@
+.Card {
+    background-color: #f1f2f3;
+    color: #212223;
+    width: 30vh;
+    height: 30vh;
+    border-radius: 3vh;
+    text-align: center;
+    font-size: 1.3vh;
+}
+
+.Title {
+    color: #f1f2f3;
+}

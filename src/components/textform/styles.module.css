@@ -1,0 +1,40 @@
+.texts {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2vh;
+    margin-top: 15vh;
+}
+
+.Form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2vh;
+    margin-top: 5vh;
+}
+
+input, label {
+    width: 30vh;
+    height: 5vh;
+    border: 0;
+    border-radius: 3vh;
+    font-size: 3vh;
+    outline: none;
+    color: #212223;
+}
+
+button {
+    width: 30vh;
+    height: 5vh;
+    border: 0;
+    border-radius: 3vh;
+    font-size: 3vh;
+    background-color: rgba(39, 225, 122, 1);
+    color: #f1f2f3;
+}
+
+.RemoveButton {
+    margin-top: 20vh;
+    width: 20vh;
+}
